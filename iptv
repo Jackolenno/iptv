@@ -1,1 +1,411 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-name"UK & TV""group-title="UK TV",UK & TV HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21726.m3u8
+#EXTINF:-1 tvg-name"ALIBI""group-title="UK TV",UK | ALIBI HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21775.m3u8
+#EXTINF:-1 tvg-name"AMC""group-title="USA",USA | AMC HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21684.m3u8
+#EXTINF:-1 tvg-name"ANIMAL PLANET FHD""group-title="ANIMALS",UK | ANIMAL PLANET FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21676.m3u8
+#EXTINF:-1 tvg-name"ANIMAL PLANET HD""group-title="ANIMALS",UK | ANIMAL PLANET HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21774.m3u8
+#EXTINF:-1 tvg-name"BBC 1 HD""group-title="UK TV",UK | BBC 1 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21772.m3u8
+#EXTINF:-1 tvg-name"BBC1 NORTHERN IRELAND HD""group-title="UK TV",UK | BBC 1 NORTHERN IRELAND HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21727.m3u8
+#EXTINF:-1 tvg-name"BBC2 HD""group-title="UK TV",UK | BBC 2 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21771.m3u8
+#EXTINF:-1 tvg-name"BBC 4 HD""group-title="UK TV",UK | BBC 4 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21769.m3u8
+#EXTINF:-1 tvg-name"CBBC""group-title="KIDS",UK | BBC CBBC HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21773.m3u8
+#EXTINF:-1 tvg-name"BBC NEWS""group-title="NEWS",UK | BBC NEWS HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21767.m3u8
+#EXTINF:-1 tvg-name"BBC ONE SCOTLAND HD""group-title="UK TV",UK | BBC ONE SCOTLAND HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21725.m3u8
+#EXTINF:-1 tvg-name"BBC RED BUTTON 1 HD""group-title="UK TV",UK | BBC RED BUTTON 1 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21694.m3u8
+#EXTINF:-1 tvg-name"BBC RED BUTTON !10 HD""group-title="UK TV",UK | BBC RED BUTTON 10 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21685.m3u8
+#EXTINF:-1 tvg-name"BBC RED BUTTON 2""group-title="UK TV",UK | BBC RED BUTTON 2 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21693.m3u8
+#EXTINF:-1 tvg-name"BBC RED BUTTON 3 HD""group-title="UK TV",UK | BBC RED BUTTON 3 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21692.m3u8
+#EXTINF:-1 tvg-name"BBC RED BUTTON 4 HD""group-title="UK TV",UK | BBC RED BUTTON 4 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21691.m3u8
+#EXTINF:-1 tvg-name"BBC RED BUTTON 5 HD""group-title="UK TV",UK | BBC RED BUTTON 5 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21690.m3u8
+#EXTINF:-1 tvg-name"BBC RED BUTTON 6 HD""group-title="UK TV",UK | BBC RED BUTTON 6 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21689.m3u8
+#EXTINF:-1 tvg-name"BBC RED BUTTON 7 HD""group-title="UK TV",UK | BBC RED BUTTON 7 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21688.m3u8
+#EXTINF:-1 tvg-name"BBC RED BUTTON 8 HD""group-title="UK TV",UK | BBC RED BUTTON 8 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21687.m3u8
+#EXTINF:-1 tvg-name"BBC RED BUTTON 9 HD""group-title="UK TV",UK | BBC RED BUTTON 9 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21686.m3u8
+#EXTINF:-1 tvg-name"BLAZE HD""group-title="UK TV",UK | BLAZE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21675.m3u8
+#EXTINF:-1 tvg-name"BLOOMERG HD""group-title="UK TV",UK | BLOOMBERG HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21782.m3u8
+#EXTINF:-1 tvg-name"BOXNATION HD""group-title="SPORTS",UK | BOXNATION HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21700.m3u8
+#EXTINF:-1 tvg-name"BT SPORTS 1 HD""group-title="SPORTS",UK | BT SPORTS 1 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21821.m3u8
+#EXTINF:-1 tvg-name"BT SPORTS HD""group-title="SPORTS",UK | BT SPORTS 2 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21820.m3u8
+#EXTINF:-1 tvg-name"BT SPORTS 3 HD""group-title="SPORTS",UK | BT SPORTS 3 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21819.m3u8
+#EXTINF:-1 tvg-name"BT SPORTS ESPN HD""group-title="SPORTS",UK | BT SPORTS ESPN HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21818.m3u8
+#EXTINF:-1,UK | BT SPORTS EXTRA 1
+http://shacktv.com:8080/live/Chuck1/Chuck123/21817.m3u8
+#EXTINF:-1,UK | BT SPORTS EXTRA 2
+http://shacktv.com:8080/live/Chuck1/Chuck123/21816.m3u8
+#EXTINF:-1,UK | BT SPORTS EXTRA 3
+http://shacktv.com:8080/live/Chuck1/Chuck123/21815.m3u8
+#EXTINF:-1,UK | BT SPORTS EXTRA 4
+http://shacktv.com:8080/live/Chuck1/Chuck123/21814.m3u8
+#EXTINF:-1,UK | BT SPORTS EXTRA 5
+http://shacktv.com:8080/live/Chuck1/Chuck123/21813.m3u8
+#EXTINF:-1,UK | BT SPORTS FHD 1
+http://shacktv.com:8080/live/Chuck1/Chuck123/21812.m3u8
+#EXTINF:-1,UK | BT SPORTS FHD 2
+http://shacktv.com:8080/live/Chuck1/Chuck123/21811.m3u8
+#EXTINF:-1,UK | BT SPORTS FHD 3
+http://shacktv.com:8080/live/Chuck1/Chuck123/21810.m3u8
+#EXTINF:-1,UK | CARTOON NETWORK HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21766.m3u8
+#EXTINF:-1,UK | CBEEBIES HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21768.m3u8
+#EXTINF:-1,UK | CHANNEL 4 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21765.m3u8
+#EXTINF:-1,UK | CHANNEL 5 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21764.m3u8
+#EXTINF:-1,UK | CHELSEA TV HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21776.m3u8
+#EXTINF:-1,UK | CI HD (crime and investigation)
+http://shacktv.com:8080/live/Chuck1/Chuck123/21781.m3u8
+#EXTINF:-1,UK | CNN HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21763.m3u8
+#EXTINF:-1,UK | COMEDY CENTRAL FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21682.m3u8
+#EXTINF:-1,UK | COMEDY CENTRAL HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21762.m3u8
+#EXTINF:-1,UK | DAVE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21761.m3u8
+#EXTINF:-1,UK | DISCOVERY FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21681.m3u8
+#EXTINF:-1,UK | DISCOVERY HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21760.m3u8
+#EXTINF:-1,UK | DISNEY CHANNEL HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21780.m3u8
+#EXTINF:-1,UK | DISNEY JUNIOR HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21697.m3u8
+#EXTINF:-1,UK | DISNEY XD HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21698.m3u8
+#EXTINF:-1,UK | E4 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21759.m3u8
+#EXTINF:-1,UK | EDEN HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21758.m3u8
+#EXTINF:-1,UK | EUROSPORTS HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21731.m3u8
+#EXTINF:-1,UK | EUROSPORTS HD 2
+http://shacktv.com:8080/live/Chuck1/Chuck123/21730.m3u8
+#EXTINF:-1,UK | FILM 4 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21757.m3u8
+#EXTINF:-1,UK | FOX HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21756.m3u8
+#EXTINF:-1,UK | GOOD FOOD HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21755.m3u8
+#EXTINF:-1,UK | HISTORY 2 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21754.m3u8
+#EXTINF:-1,UK | HISTORY FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21673.m3u8
+#EXTINF:-1,UK | HISTORY HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21721.m3u8
+#EXTINF:-1,UK | ITV BE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21753.m3u8
+#EXTINF:-1,UK | ITV HD 1
+http://shacktv.com:8080/live/Chuck1/Chuck123/21752.m3u8
+#EXTINF:-1,UK | ITV HD 2
+http://shacktv.com:8080/live/Chuck1/Chuck123/21751.m3u8
+#EXTINF:-1,UK | ITV HD 3
+http://shacktv.com:8080/live/Chuck1/Chuck123/21750.m3u8
+#EXTINF:-1,UK | ITV HD 4
+http://shacktv.com:8080/live/Chuck1/Chuck123/21749.m3u8
+#EXTINF:-1,UK | ITV London HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21723.m3u8
+#EXTINF:-1,UK | LIFETIME HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21748.m3u8
+#EXTINF:-1,UK | MORE 4 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21747.m3u8
+#EXTINF:-1,UK | MTV HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21746.m3u8
+#EXTINF:-1,UK | MTV LIVE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21745.m3u8
+#EXTINF:-1,UK | MUTV HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21777.m3u8
+#EXTINF:-1,UK | NAT GEO HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21744.m3u8
+#EXTINF:-1,UK | NAT GEO WILD HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21743.m3u8
+#EXTINF:-1,UK | NICK HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21742.m3u8
+#EXTINF:-1,UK | RACING UK HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21729.m3u8
+#EXTINF:-1,UK | RTE ONE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21779.m3u8
+#EXTINF:-1,UK | RTE TWO  HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21778.m3u8
+#EXTINF:-1,UK | SKY ARTS FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21679.m3u8
+#EXTINF:-1,UK | SKY ARTS HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21696.m3u8
+#EXTINF:-1,UK | Sky Atlantic HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21783.m3u8
+#EXTINF:-1,UK | SKY CINEMA ACTION HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21809.m3u8
+#EXTINF:-1,UK | SKY CINEMA ACTION MEN FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21713.m3u8
+#EXTINF:-1,UK | SKY CINEMA COMEDY FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21712.m3u8
+#EXTINF:-1,UK | SKY CINEMA COMEDY HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21808.m3u8
+#EXTINF:-1,UK | SKY CINEMA DISNEY FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21711.m3u8
+#EXTINF:-1,UK | SKY CINEMA DISNEY HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21807.m3u8
+#EXTINF:-1,UK | SKY CINEMA DRAMA FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21710.m3u8
+#EXTINF:-1,UK | SKY CINEMA DRAMA HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21806.m3u8
+#EXTINF:-1,UK | SKY CINEMA FAMILY FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21709.m3u8
+#EXTINF:-1,UK | SKY CINEMA FAMILY HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21805.m3u8
+#EXTINF:-1,UK | SKY CINEMA GREATS FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21708.m3u8
+#EXTINF:-1,UK | SKY CINEMA GREATS HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21799.m3u8
+#EXTINF:-1,UK | SKY CINEMA HEROES HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21804.m3u8
+#EXTINF:-1,UK | SKY CINEMA HITS FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21707.m3u8
+#EXTINF:-1,UK | SKY CINEMA HITS HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21803.m3u8
+#EXTINF:-1,UK | SKY CINEMA PREMIER FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21706.m3u8
+#EXTINF:-1,UK | SKY CINEMA PREMIERE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21802.m3u8
+#EXTINF:-1,UK | SKY CINEMA SCI-FI HORROR FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21705.m3u8
+#EXTINF:-1,UK | SKY CINEMA SCI-FI HORROR HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21801.m3u8
+#EXTINF:-1,UK | SKY CINEMA SELECT FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21704.m3u8
+#EXTINF:-1,UK | SKY CINEMA THRILLER FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21703.m3u8
+#EXTINF:-1,UK | SKY CINEMA THRILLER HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21798.m3u8
+#EXTINF:-1,UK | SKY LIVING HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21740.m3u8
+#EXTINF:-1,UK | SKY NEWS HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21739.m3u8
+#EXTINF:-1,UK | SKY ONE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21741.m3u8
+#EXTINF:-1,UK | SKY SPORTS ACTION HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21795.m3u8
+#EXTINF:-1,UK | SKY SPORTS ARENA HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21716.m3u8
+#EXTINF:-1,UK | SKY SPORTS CRICKET HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21796.m3u8
+#EXTINF:-1,UK | SKY SPORTS CRICKET SD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21715.m3u8
+#EXTINF:-1,UK | SKY SPORTS F1 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21792.m3u8
+#EXTINF:-1,UK | SKY SPORTS FHD ACTION
+http://shacktv.com:8080/live/Chuck1/Chuck123/21789.m3u8
+#EXTINF:-1,UK | SKY SPORTS FHD ARENA
+http://shacktv.com:8080/live/Chuck1/Chuck123/21718.m3u8
+#EXTINF:-1,UK | SKY SPORTS FHD CRICKET
+http://shacktv.com:8080/live/Chuck1/Chuck123/21790.m3u8
+#EXTINF:-1,UK | SKY SPORTS F1 FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21786.m3u8
+#EXTINF:-1,UK | SKY SPORTS FHD FOOTBALL
+http://shacktv.com:8080/live/Chuck1/Chuck123/21717.m3u8
+#EXTINF:-1,UK | SKY SPORTS FHD GOLF
+http://shacktv.com:8080/live/Chuck1/Chuck123/21788.m3u8
+#EXTINF:-1,UK | SKY SPORTS MAIN EVENT FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21791.m3u8
+#EXTINF:-1,UK | SKY SPORTS FHD PREMIER LEAGUE
+http://shacktv.com:8080/live/Chuck1/Chuck123/21787.m3u8
+#EXTINF:-1,UK | SKY SPORTS FOOTBALL HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21714.m3u8
+#EXTINF:-1,UK | SKY SPORTS GOLF HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21794.m3u8
+#EXTINF:-1,UK | SKY SPORTS MAIN EVENT HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21797.m3u8
+#EXTINF:-1,UK | SKY SPORTS MIX HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21785.m3u8
+#EXTINF:-1,UK | SKY SPORTS NEWS HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21784.m3u8
+#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21793.m3u8
+#EXTINF:-1,UK | SYFY HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21738.m3u8
+#EXTINF:-1,UK | TCM FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21674.m3u8
+#EXTINF:-1,UK | TCM HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21737.m3u8
+#EXTINF:-1,UK | TLC FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21678.m3u8
+#EXTINF:-1,UK | TLC HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21702.m3u8
+#EXTINF:-1,UK | UNIVERSAL FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21677.m3u8
+#EXTINF:-1,UK | UNIVERSAL HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21736.m3u8
+#EXTINF:-1,UK | UTV HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21735.m3u8
+#EXTINF:-1,UK | VICELAND HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21683.m3u8
+#EXTINF:-1,Al Jazeera English (Opt-1)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1,Al Jazeera English (Opt-2)
+http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
+#EXTINF:-1,Al Jazeera English (Opt-3)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8
+#EXTINF:-1,Animal Planet
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF:-1,Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,AXN
+http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/04.m3u8
+#EXTINF:-1,BBC World News (Opt-1)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
+#EXTINF:-1,BBC World News (Opt-2)
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,Bloomberg TV UK
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,BoxNation (Geo)
+http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1,CGTN English (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1,CGTN English (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1,CNBC World
+http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+#EXTINF:-1,Create and Craft
+https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+#EXTINF:-1,Discovery Science
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:-1,Discovery World (Opt-1)
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:-1,Discovery World (Opt-2)
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/03.m3u8
+#EXTINF:-1,DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1,English Club TV
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1,Euronews (Opt-1)
+http://61.58.60.230:9000/live/129.m3u8
+#EXTINF:-1,Euronews (Opt-2)
+https://stream-03.nyc.dailymotion.com/25/dm/3/x2j4h4m/live-3.m3u8
+#EXTINF:-1,Extreme Sports Channel
+http://persik.by/stream/1418/252987/10309.m3u8
+#EXTINF:-1,Flow Sports
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1,France 24 English (Opt-1)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1,France 24 English (Opt-2)
+http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
+#EXTINF:-1,Gemporia
+https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
+#EXTINF:-1,Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,ITV
+http://62.210.93.115:80/live?channelId=6&uid=3126&deviceMac=00:1A:79:3C:C7:B7
+#EXTINF:-1,ITV 2
+http://62.210.93.115:80/live?channelId=14&uid=3126&deviceMac=00:1A:79:3C:C7:B7
+#EXTINF:-1,Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+#EXTINF:-1,KIX (Asia)
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1,Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1,Landscape TV
+http://130.88.20.237:1235/monitor.flv
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1,NHK World (Opt-1)
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1,NHK World (Opt-2)
+http://mhms10.airtel.tv/wh7f454c46tw1262349124_1691091773/PLTV/88888888/224/3221226544/04.m3u8
+#EXTINF:-1,RT UK
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
+#EXTINF:-1,QVC
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1,QVC UK +1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:-1,QVC Beauty
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1,QVC Style
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1,QVC Extra
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1,Sky News (Opt-1)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,Sky News (Opt-2)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1,Sunburn TV
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+#EXTINF:-1,TLC HD World (Opt-1)
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+#EXTINF:-1,TLC HD World (Opt-2)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/01.m3u8
+#EXTINF:-1,TLC HD World (Opt-3)
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
+#EXTINF:-1,Travel XP
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/01.m3u8
+#EXTINF:-1,TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,~ Ireland TV ~
+http://www.lengua.com/anthems/Ireland.mp3
+#EXTINF:-1,TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1,RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1,RTE 1
+http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+#EXTINF:-1,RTE 2
+http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+#EXTINF:-1,RTE Jr.
+https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+#EXTINF:-1,UK | Premiere Sports FHD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16736.m3u8
+#EXTINF:-1,UK | SKY Sports ACTION HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16733.m3u8
+#EXTINF:-1,UK | Sky Sports F1 HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/19558.m3u8
+#EXTINF:-1,UK | Sky Sport Football HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16734.m3u8
+#EXTINF:-1,UK | Sky Sport Arena HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/18772.m3u8
+#EXTINF:-1,UK | SKY Sports CRICKET
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16732.m3u8
+#EXTINF:-1,UK | SKY Sports GOLF HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16730.m3u8
+#EXTINF:-1,UK | Sky Sports Main Event HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16729.m3u8
+#EXTINF:-1,UK | Sky Sports Mix HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/18483.m3u8
+#EXTINF:-1,UK | Sky Sports News HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16727.m3u8
+#EXTINF:-1,UK | SKY Sports PREMIER LEAGUE
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16726.m3u8
+#EXTINF:-1,UK | Sky Sports The Open HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16725.m3u8
